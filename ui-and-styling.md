@@ -250,7 +250,7 @@ The following example creates a single line of 4 elements that stretch across th
 | Name               | Type        | Description                                                                                                     |
 | ------------------ | ----------- | --------------------------------------------------------------------------------------------------------------- |
 | `stretchLastChild` | `Boolean`   | Enables or disables stretching the last child to fit the remaining space.                                       |
-| `...Inherited`     | `Inherited` | Additional inherited properties not shown. Refer to the [API Reference](/api-reference/classes/docklayout.html) |
+| `...Inherited`     | `Inherited` | Additional inherited properties not shown. Refer to the [API Reference](/api-reference/classes/docklayout) |
 
 <!-- TODO: fix links -->
 
