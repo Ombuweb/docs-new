@@ -163,7 +163,7 @@ The following example creates a group of overlapping items.
 | Name           | Type        | Description                                                                                                         |
 | -------------- | ----------- | ------------------------------------------------------------------------------------------------------------------- |
 | `N/A`          | `N/A`       | None.                                                                                                               |
-| `...Inherited` | `Inherited` | Additional inherited properties not shown. Refer to the [API Reference](/api-reference/classes/absolutelayout.html) |
+| `...Inherited` | `Inherited` | Additional inherited properties not shown. Refer to the [API Reference](/api-reference/classes/absolutelayout) |
 
 #### Additional children props
 
